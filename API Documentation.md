@@ -38,7 +38,7 @@ Brief Description of endpoint.
 |   |body|    |           |
 |   |body|    |           |
 
-<h3 id="  ">Parameters</h3>
+<h3 id="  ">Header Parameters</h3>
 
 |Parameter|In|Type|Required|Description|
 |---|---|---|---|---|
