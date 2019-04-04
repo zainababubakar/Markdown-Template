@@ -1,9 +1,6 @@
 <h1 id="title"> TITLE </h1> <!--i.e Title for referencing the Api)</p>-->
 
 ## Endpoint Name
-<aside class="Description">
-A brief description of the endpoint
-</aside> 
 
 > Code samples
 
@@ -15,10 +12,9 @@ Input Code sample in specified Language
 
 ```
 
-
 `<HTTP Method> <Path to reference endpoint>`
 
-Brief Description.
+Brief Description of endpoint.
 
 
 > Body parameter
@@ -43,7 +39,7 @@ Brief Description.
 
 |Parameter|In|Type|Required|Description|
 |---|---|---|---|---|
-|       |header|      |true/false|should contain a links to default values, docs, sample codes, urls, needed to better understand or generate the parameter as required|
+|       |header|      |true/false|should contain a links to default values, Api docs, sample codes, urls, needed to better understand or generate the parameter as required|
 
 
 > Sample responses
@@ -80,5 +76,5 @@ Brief Description.
 <h3 id="  ">Response Schema</h3>
 
 <aside class="warning">
-Description.
+
 </aside>
