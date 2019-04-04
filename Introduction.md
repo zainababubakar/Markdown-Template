@@ -2,4 +2,4 @@
 
   Description of product:
 
-- Necessary links to API docs and static docs 
+- Links to API docs and static docs 
