@@ -42,7 +42,7 @@ Brief Description of endpoint.
 
 |Parameter|In|Type|Required|Description|
 |---|---|---|---|---|
-|       |header|      |true/false|should contain a links to default values, Api docs, sample codes, urls, needed to better understand or generate the parameter as required|
+|       |header|      |true/false|should contain [links](https://blog.ghost.org/markdown/) to default values, Api docs, sample codes, urls, needed to better understand or generate the parameter as required|
 
 
 > Sample responses
