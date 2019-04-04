@@ -4,11 +4,11 @@
 
 The <NAME of the API> API uses the following HTTP codes:
 
-| Error Code | Meaning
----------- | -------
-    |
-    |
-    |
+S/N | Error Code | Meaning
+---|---|---
+1 	|   | 
+2 	|   | 
+3 	|   | 
 <!-- 403 | Forbidden -- The requested API has some wrong keys in there!
 404 | Not Found -- The specified request could not be found
 500 | Internal Server Error -- We had a problem with our server. Try again later.
