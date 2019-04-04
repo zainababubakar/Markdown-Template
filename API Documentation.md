@@ -1,4 +1,6 @@
-<h1 id="title"> TITLE </h1> <!--i.e Title for referencing the Api)</p>-->
+<h1 id="title"> TITLE </h1> <!--i.e This doc contains API description and all endpoints associated with the API)</p>-->
+
+    Brief Description of the API
 
 ## Endpoint Name
 
