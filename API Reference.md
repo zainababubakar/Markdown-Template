@@ -4,6 +4,7 @@
 
 > Code samples
 
+    Code samples could be written in as many Languages as possible.
 
 ```Language
 <? Language
