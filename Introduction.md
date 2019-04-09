@@ -1,6 +1,6 @@
 ---
-title: Product Name
-language tabs: 
+Title: Product Name
+Language tabs: 
     should include all languages in which sample code and implementation were written, in the format below
     -java
     -csharp
