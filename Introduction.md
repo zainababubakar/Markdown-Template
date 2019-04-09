@@ -1,7 +1,7 @@
 ---
 title: Product Name
 language tabs: 
-    should include all languages in which code samples and implementation were written in the format below
+    should include all languages in which sample code and implementation were written, in the format below
     -java
     -csharp
     -php
