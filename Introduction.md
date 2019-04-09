@@ -5,7 +5,7 @@ Language tabs:
     -java
     -csharp
     -php
-    visit the following link https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers for supported laguages
+    visit the following [link](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers) for supported laguages
 ---
 
 # Product Name
