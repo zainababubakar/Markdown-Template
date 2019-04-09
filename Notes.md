@@ -9,7 +9,7 @@ Base endpoints for this documentation can be referenced from this table:
 |---|---|---|
 |Function name(Links to reference the Api docs for the function could be included here)| Sandbox url | Passport url  |
 
-#### **For parameters like AuthData, Nonce, Timestamp, Tansaction references e.t.c. Descriptions (including links to necessary resources and possibly email addresses that could be contacted for more information), Code Samples, Sample Implementations and Pseudocodes should be included here as required. Below are some sample templates.**
+#### **For parameters like AuthData, Nonce, Timestamp, Tansaction references e.t.c. Descriptions (links to necessary resources and possibly email addresses that could be contacted for more information), Code Samples, Sample Implementations and Pseudocodes should be included here as required. Below are some sample templates.**
 
 ## AuthData
 

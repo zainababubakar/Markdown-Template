@@ -1,4 +1,14 @@
-# PRODUCT NAME
+---
+title: Product Name
+language tabs: 
+    should include all languages in which code samples and implementation were written in the format below
+    -java
+    -csharp
+    -php
+    visit the following link https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers for supported laguages
+---
+
+# Product Name
 
   Description of product:
 
