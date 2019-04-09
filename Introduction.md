@@ -1,4 +1,4 @@
-<h1 id="summary">PRODUCT NAME</h1>
+# PRODUCT NAME
 
   Description of product:
 

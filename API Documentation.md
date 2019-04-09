@@ -1,4 +1,5 @@
-<h1 id="title"> TITLE </h1> <!--i.e This doc contains API description and all endpoints associated with the API)</p>-->
+# TITLE
+<!--i.e This doc contains API description and all endpoints associated with the API)</p>-->
 
     Brief Description of the API
 
@@ -30,7 +31,7 @@ Brief Description of endpoint.
 ```
 
 
-   <h3 id=" ">Request Body</h3>
+### Request Body
  
 
 |Parameter|In|Type|Description| 
@@ -38,7 +39,7 @@ Brief Description of endpoint.
 |   |body|    |           |
 |   |body|    |           |
 
-<h3 id="  ">Header Parameters</h3>
+### Header Parameters
 
 |Parameter|In|Type|Required|Description|
 |---|---|---|---|---|
@@ -70,13 +71,13 @@ Brief Description of endpoint.
 }
 ```
 
-<h3 id=" ">Responses</h3>
+### Responses
 
 |Status|Meaning|Description|Schema|
 |---|---|---|---|
 |     |     |     |     |
 
-<h3 id="  ">Response Schema</h3>
+### Response Schema
 
 <aside class="warning">
 
