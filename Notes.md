@@ -46,9 +46,9 @@ Brief description of Nonce.
 ```
 Brief description of Timestamps which should include link to neccesary resources needed to generate the timestamp.
 
-## Transaction References
+<!-- ## Transaction References
 
- <!-- <a id="transaction-references"></a> -->
+ <a id="transaction-references"></a>
 
  > Implementation
 
@@ -58,9 +58,9 @@ Brief description of Timestamps which should include link to neccesary resources
     
  ```
 
- Brief description of Transaction reference.
+ Brief description of Transaction reference. -->
 
-**For key valued pairs, json or yaml is allowed, and the format type must be specified in the Sample reguest, below is an example in json.**
+**For key valued pairs, json or yaml is allowed, and the format type must be specified in the Sample reguest, below is a sample template in json.**
 
 # Signatures
 
@@ -70,10 +70,10 @@ Signature = url_encode(access_url+endpoint)
 ```json
 {
     "Authorization": "<ACCESS_TOKEN>",
-    "Timestamp": "1361281946",
-    "Nonce": "634968823463411609",
-    "Signature": "2cFwCfkgRR7mlIOlcjTQXCUYpLmtlKJkCb8RUzIX0-k=",
-    "SignatureMethod": "SHA-256"
+    "Timestamp": "<Timestamp>",
+    "Nonce": "Nonce",
+    "Signature": "Signature",
+    "SignatureMethod": "Signature Method"
 }
 ```
 
