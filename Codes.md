@@ -1,5 +1,5 @@
 
-The <NAME of the API> API uses the following HTTP codes:
+The <NAME of the API> API uses the following HTTP and Response codes:
 
 ### HTTP Codes
 
