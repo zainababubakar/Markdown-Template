@@ -49,11 +49,16 @@ When you want to add a quote in Markdown, Prefixing the line with a ">" converts
 **text**
 
 ### Syntax Highlighting
-`
-```language-javascript
-   [...]
+
 ```
-`
+
+    ```language-javascript
+        [...]
+
+    ```
+
+```
+
 **Produces**:
 
 ```language-javascript
@@ -80,5 +85,6 @@ Indenting by 4 spaces will turn an entire paragraph into a code-block.
 
 ```
 Want to throw-down a quick divider in your dosumentation to denote a visual separation between different sections of text? No problem. 3 dashes produce
+
 ---
 
