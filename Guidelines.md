@@ -84,9 +84,13 @@ When you want to add a quote in Markdown, Prefixing the line with a ">" converts
 
 ```
 
-`code`
+` A code snippet `
 
 ```
+
+**Produces**:
+
+` A code snippet `
 
 Using a single back-tick around a word in a sentence, you can show a quick `code` snippet.
 
