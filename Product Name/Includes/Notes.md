@@ -6,6 +6,7 @@
 Base endpoints for this documentation can be referenced from this table:
 
 |Function|Sandbox|Production|
+-------- | ----- | -------- |
 |Passport (Link to passport documentation if any)|sandbox url|production url|
 
 
