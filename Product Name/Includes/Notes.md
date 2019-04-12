@@ -60,7 +60,7 @@ Brief description of Timestamps which should include link to neccesary resources
 
  Brief description of Transaction reference. -->
 
-#### **For key valued pairs, json or yaml is allowed, and the format type must be specified in the Sample request, below is a sample template in json.**
+#### **For key valued pairs, json or yaml is allowed, which must be specified in the Sample request, and added to the language list in the index file. Below is a sample template in json.**
 
 # Signatures
 

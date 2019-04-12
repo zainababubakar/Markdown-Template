@@ -20,7 +20,7 @@ Headings in Markdown are any line which is prefixed with a # symbol. The number 
 
 **NOTE**: Html tags can also be used for headings in markdown files but for the purpose of this documentation, stick to the **#** symbol for headings. 
 
-**DO NOT USE HTML TAGS (h1, h1, e.t.c) FOR THE HEADINGS**
+**DO NOT USE HTML TAGS (`<h1>`, `<h1>`, e.t.c) FOR THE HEADINGS**
 
 ### QUOTES
 
@@ -66,7 +66,7 @@ When you want to add a quote in Markdown, Prefixing the line with a ">" converts
 
 ```
 
-    ```language-javascript
+    ```language example-javascript
 
         [...]
 
@@ -76,7 +76,7 @@ When you want to add a quote in Markdown, Prefixing the line with a ">" converts
 
 **Produces**:
 
-```language-javascript
+```language example-javascript
    [...]
 ```
 
@@ -107,3 +107,4 @@ Want to throw-down a quick divider in your dosumentation to denote a visual sepa
 
 ---
 
+### **For more information on writing markdown files, visit https://blog.ghost.org/markdown/.**
