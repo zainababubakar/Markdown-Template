@@ -16,7 +16,7 @@ Base endpoints for this documentation can be referenced from this table:
 
 > Code Samples if any
 
-```java
+```Language name
   
   "Sample Code"
   
@@ -29,7 +29,7 @@ Brief Description of feature.
 
 > Sample code if any
 
-```java
+```Language name
 	
   "Sample code"
 

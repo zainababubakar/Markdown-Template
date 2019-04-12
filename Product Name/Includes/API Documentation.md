@@ -13,7 +13,7 @@
 
 > Code sample in <Language name>
 
-```<Language name>
+```Language name
 
 Input Code sample in specified Language
 
@@ -26,7 +26,7 @@ Brief Description of endpoint.
 
 > Body parameter
 
-```
+```json
 {
     "Body parameters"
 }
@@ -52,7 +52,7 @@ Brief Description of endpoint.
 
 > Sample responses
 
-```
+```json
 
 // Description
 {
@@ -65,7 +65,7 @@ Brief Description of endpoint.
 
 > Error Response
 
-```
+```json
 
 // Description
 {
