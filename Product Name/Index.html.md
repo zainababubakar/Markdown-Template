@@ -16,10 +16,10 @@ Language tabs:
     # You could have the documentation to each API stored in different files, but make sure to store them in the include folder and list them here in the order in which you want them to appear.
 
 Includes:
-    -Codes
-    -API Documentation
-    -Errors
-    -Notes
+    -productName-codes
+    -productName-API documentation
+    -productName-errors
+    -productName-notes
 
 search: true
     
