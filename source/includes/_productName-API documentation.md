@@ -42,7 +42,7 @@ Brief description of the endpoint
 
 |Parameter|In|Type|Required|Description|
 |---|---|---|---|---|
-|       |header|      |true/false|should contain [links](https://blog.ghost.org/markdown/) to default values, Api docs, sample codes, urls, needed to better understand or generate the parameter as required|
+|       |header|      |true/false|should contain [links](../docs/productName) to default values, Api docs, sample codes, urls, needed to better understand or generate the parameter as required|
 
 **Sample responses should be in JSON Format.**
 
