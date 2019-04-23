@@ -1,30 +1,27 @@
 # TITLE
 <!--i.e This doc contains API description and all endpoints associated with the API)</p>-->
 
-    Brief Description of the API
+Brief description of the API
 
 ## Endpoint Name
 
-> Code samples
-
-    Code samples could be written in as many Languages as possible.
-    
 <!-- Language name must be specified in any Sample code, implementation or the likes, and such Language must be included in the Language list in the index file. -->
 
-> Code sample in <Language name>
+> Code samples 
 
-```Language name
+```language
 
-Input Code sample in specified Language
+Input Code sample in specified language
 
 ```
 
-**`<HTTP Method> <Path to reference endpoint>`**
+Brief description of the endpoint
+    
+### HTTP Request
 
-Brief Description of endpoint.
+`<HTTP Method> <Path to reference endpoint>`
 
-
-> Body parameter
+### Body parameter
 
 ```json
 {
@@ -32,7 +29,6 @@ Brief Description of endpoint.
 }
 
 ```
-
 
 ### Request Body
  
@@ -84,5 +80,19 @@ Brief Description of endpoint.
 ### Response Schema
 
 <aside class="warning">
+
+    Input a warning messages in this format.
+
+</aside>
+
+<aside class="notice">
+
+    Input necessary information (notice) when calling the API in this format.
+
+</aside>
+
+<aside class="success">
+
+    Input a success messages in this format.
 
 </aside>

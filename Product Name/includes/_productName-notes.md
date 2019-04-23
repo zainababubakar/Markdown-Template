@@ -16,20 +16,18 @@ Base endpoints for this documentation can be referenced from this table:
 
 > Code Samples if any
 
-```Language name
+```language
   
   "Sample Code"
   
 ```
-
 Brief Description of feature.
-
 
 ## Important Information
 
 > Sample code if any
 
-```Language name
+```language
 	
   "Sample code"
 
