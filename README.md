@@ -18,7 +18,7 @@ After successfully setting up and running the documentation server locally, you 
 
 ***All product documentation must follow the following format:***
 
-1. Using `pascalCasing` create a folder named after the product to be documented.
+1. Create a folder named after the product to be documented in the docs folder which is located in the source folder.
 2. Create an `index.html.md` file following the template provided inside the folder created which will serve as the base file for the product documentation.
 3. All other Markdown files created such as the API documenation, notes should be stored in the `includes` folder following the naming convention used in this template.`
 
